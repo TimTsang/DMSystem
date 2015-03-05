@@ -1,0 +1,111 @@
+@CHARSET "UTF-8";
+.icon-password{
+	background-image: url('../images/key.png') !important;
+}
+
+.icon-door_in{
+	background : url("../images/door_in.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+
+.icon-house_go{
+	background : url("../images/house_go.png") no-repeat 135px 5px !important;
+}
+
+.icon-model{
+	background: url('../images/user.gif') left top no-repeat !important;
+}
+
+.icon-time{
+	background: url('../images/time.png') left 5px no-repeat !important;
+}
+
+.icon-refresh{
+	background : url("../images/action_refresh_blue.gif") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+
+.icon-user-add {
+    background-image: url('../images/user_add.gif') !important;
+}
+
+.icon-user-delete {
+    background-image: url('../images/user_delete.gif') !important;
+}
+
+.add {
+    background: url('../images/add.png') left top no-repeat;
+}
+		
+.note_save {
+    background: url('../images/note_new.gif') left top no-repeat;
+}
+
+.delete{
+    background: url('../images/del.gif') left top no-repeat;
+}
+		
+.note_back{
+    background: url('../images/note_delete.gif') left top no-repeat;
+}     
+
+.icon-hotel{
+    background: url('../images/indexicon.gif') no-repeat scroll left 4px rgba(0, 0, 0, 0) !important;
+}
+.icon-passenger{
+    background: url('../images/user_suit.png') no-repeat scroll left 4px rgba(0, 0, 0, 0) !important;
+}
+
+.icon-user{
+    background: url('../images/user_suit.png') no-repeat scroll left -1px rgba(0, 0, 0, 0) !important;
+}
+
+.icon-search{
+    background: url('../images/zoom.png') left top no-repeat;
+}
+
+.icon-search2{
+    background: url('../images/magnifier.png') left top no-repeat;
+}
+
+.icon-result{
+	background: url('../images/folder_go.png') left top no-repeat;
+}
+
+.query-conditions{
+	background: url('../images/book_open.png') left top no-repeat;
+}
+
+.icon-excel{
+	background : url("../images/page_excel.png") left top no-repeat !important;
+}
+
+.icon-model{
+	background : url("../images/bricks.png") left 5px no-repeat !important;
+}
+
+.button1 {
+        background: url('../images/action_save.gif') left top no-repeat !important;
+}
+.button2{
+		background: url('../images/page_delete.gif') left top no-repeat !important;
+}
+.button3{
+		background: url('../images/action_refresh_blue.gif') left top no-repeat !important;
+}
+.button_edit{
+		background: url('../images/user_edit.png') left top no-repeat !important;
+}
+.button_add{
+		background: url('../images/user_add.gif') left top no-repeat !important;
+}
+.button_delete{
+		background: url('../images/user_delete.gif') left top no-repeat !important;
+}
+.button_max{
+		background: url('../images/user.gif') left top no-repeat !important;
+}
+.button_add2{
+		background: url('../images/award_star_add.png') left top no-repeat !important;
+}
+.button_edit2{
+		background: url('../images/award_star_bronze_1.png') left top no-repeat !important;
+}

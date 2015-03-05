@@ -1,0 +1,66 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型的对象JSON数据
+ */
+{
+	"results" : 11,
+	"title":"旅客对象test",
+	"rows"    : 
+			[{
+				"id"      		 : 1,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_lkbh", 
+			    "ChineseObjName" : "旅客编号", 
+			},{
+				"id"     		 : 2,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_th", 
+			    "ChineseObjName" : "团号", 
+			},{
+				"id"      		 : 3,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_xm", 
+			    "ChineseObjName" : "姓名", 
+			},{
+				"id"      		 : 4,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_xmpy",  
+			    "ChineseObjName" : "姓名拼音", 
+			},{
+				"id"      		 : 5,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_xb",  
+			    "ChineseObjName" : "性别", 
+			},{
+				"id"      		 : 6,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_mz", 
+			    "ChineseObjName" : "民族", 
+			},{
+				"id"      		 : 7,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_csrq",  
+			    "ChineseObjName" : "出生日期", 
+			},{
+				"id"      		 : 8,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_zjlx",  
+			    "ChineseObjName" : "证件类型", 
+			},{
+				"id"      		 : 9,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_zjhm",  
+			    "ChineseObjName" : "证件号码", 
+			},{
+				"id"      		 : 10,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_xzqh", 
+			    "ChineseObjName" : "常住行政区划", 
+			},{
+				"id"      		 : 11,
+				"andor"   		 : "and",
+			    "objName" 		 : "za_lyt_czdz", 
+			    "ChineseObjName" : "常住地址", 
+			}]
+}

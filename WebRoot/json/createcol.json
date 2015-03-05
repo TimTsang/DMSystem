@@ -1,0 +1,60 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型的对象JSON数据
+ */
+{
+	//"results" : 10,
+	"coders" : [{
+
+				"id" : "1",
+				"name" : "McLaughlin",
+				"descn" : "brett@newInstance.com",
+				"test" : "test"
+			}, {
+
+				"id" : "2",
+				"name" : "Hunter",
+				"descn" : "jason@servlets.com"
+			}, {
+
+				"id" : "3",
+				"name" : "Harold",
+				"descn" : "elharo@macfaq.com"
+			}, {
+
+				"id" : "4",
+				"name" : "Harolds",
+				"descn" : "elhaross@macfaq.com"
+			}, {
+
+				"id" : "5",
+				"name" : "Karolds",
+				"descn" : "lhaross@macfaq.com"
+			}, {
+
+				"id" : "6",
+				"name" : "Yarolds",
+				"descn" : "elaross@macfaq.com"
+			}, {
+
+				"id" : "7",
+				"name" : "Jarolds",
+				"descn" : "elharss@macfaq.com"
+			}, {
+
+				"id" : "8",
+				"name" : "Larolds",
+				"descn" : "elhass@macfaq.com"
+			}, {
+
+				"id" : '9',
+				"name" : "Haroldws",
+				"descn" : "elhaross@macfaq.com"
+			}, {
+
+				"id" : "10",
+				"name" : "WHarolds",
+				"descn" : "elhaross@macfaq.com"
+			}]
+}

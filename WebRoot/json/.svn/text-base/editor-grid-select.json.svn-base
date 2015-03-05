@@ -1,0 +1,58 @@
+/**
+ * @author TimTsang
+ * @date 2014年7月18日
+ * @description JSON数据
+ */
+{
+	"results" : 12,
+	"rows"    : 
+			[{
+				"id"      : 1, 
+			    "Eselect" : "=",                                  
+				"Cselect" : "等于",
+			},{
+				"id"      : 2,
+			    "Eselect" : "GreaterThan",
+				"Cselect" : "大于",
+			},{
+				"id"      : 3,
+			    "Eselect" : "LessThan",
+				"Cselect" : "小于",
+			},{
+				"id"      : 4,
+			    "Eselect" : "NotEqual",
+				"Cselect" : "不等于",
+			},{
+				"id"      : 5,
+			    "Eselect" : "GreaterThanOrEqualTo",
+				"Cselect" : "大于等于",
+			},{
+				"id"      : 6,
+			    "Eselect" : "LessThanOrEqualTo",
+				"Cselect" : "小于等于",
+			},{
+				"id"      : 7,
+			    "Eselect" : "instr",
+				"Cselect" : "包含",
+			},{
+				"id"      : 8,
+			    "Eselect" : "endWith",
+				"Cselect" : "以...结束",
+			},{
+				"id"      : 9,
+			    "Eselect" : "isNotNull",
+				"Cselect" : "不为空",
+			},{
+				"id"      : 10,
+			    "Eselect" : "isNull",
+				"Cselect" : "为空",
+			},{
+				"id"      : 11,
+			    "Eselect" : "starWith",
+				"Cselect" : "以...开始",
+			},{
+				"id"      : 12,
+			    "Eselect" : "between",
+				"Cselect" : "在...之间",
+			}]
+}

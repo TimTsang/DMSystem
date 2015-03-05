@@ -1,0 +1,139 @@
+a {
+	color : #15428B;
+}
+a:link,
+a:visited {
+	text-decoration : none;
+}
+
+a:hover {
+	text-decoration : underline;
+}
+
+#header {
+	background : #7F99BE url(../images/layout-browser-hd-bg.gif) repeat-x center;
+	visibility : hidden;
+}
+
+#header h1 {
+	font-size   : 16px;
+	font-weight : bold;
+	color       : #fff;
+	padding     : 5px 10px;
+}
+
+#footer {
+	position   : absolute;
+	visibility : hidden;
+	bottom     : 0;
+	width      : 100%;
+	height     : 60px;/*脚部的高度*/ 
+	background : #7F99BE url(../images/layout-browser-hd-bg.gif) repeat-x center;
+	clear      :both;
+	text-align :center;
+}
+ #footer h1{    
+  	margin  : 0;  
+  	padding : 010px;  
+ }
+.x-icon-user {
+    background-image: url("../images/user.gif") !important;
+}
+
+.x-icon-user_add {
+    background-image: url("../images/user_add.gif") !important;
+}
+
+.x-icon-cog_edit {
+    background-image: url("../images/cog_edit.png") !important;
+}
+
+.x-icon-help {
+    background-image: url("../images/help.png") !important;
+}
+
+.start-bg {
+	background-image : url('../images/bg.jpg') !important;
+}
+
+.icon-nav {
+	background-image : url('../images/folder_go.png') !important;
+}
+
+.icon-settings {
+	background-image : url('../images/folder_wrench.png') !important;
+}
+
+.icon-add {
+	background-image : url('../images/add.gif') !important;
+}
+
+.icon-edit {
+	background-image : url('../images/edit.gif') !important;
+}
+
+.icon-del {
+	background-image : url('../images/del.gif') !important;
+}
+
+.icon-del-gray {
+	background-image : url('../images/del_gray.gif') !important;
+}
+
+.icon-search {
+	background-image : url('../images/search.gif') !important;
+}
+
+.icon-grid {
+	background-image : url('../images/grid.png') !important;
+}
+
+.icon-plugin {
+	background-image : url('../images/plugin.gif') !important;
+}
+
+
+.icon-info {
+	background-image : url('../images/info.gif') !important;
+}
+
+.upload-icon {
+	background : url('../image_add.png') no-repeat 0 0 !important;
+}
+.icon-home{
+	background : url("../images/house.png") no-repeat scroll left 4px rgba(0, 0, 0, 0) !important;
+}
+.icon-plugin{
+	background : url("../images/plugin.gif") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-info{
+	background : url("../images/info.gif") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-delete{
+	background : url("../images/delete.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-main{
+	background : url("../images/folder_go.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-right{
+	background : url("../images/book_open.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-do{
+	background : url("..images/comment_edit.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+.icon-search{
+	background : url("../images/search.gif") no-repeat scroll left 4px rgba(0, 0, 0, 0) !important;
+}
+.icon-refresh{
+	background : url("../images/action_refresh_blue.gif") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+}
+
+/*-----------*/
+.x-grid3-row-body p {
+	margin : 5px 5px 10px 5px !important;
+}
+
+body,td,th {
+	font-family : 'Geneva, Arial, Helvetica, sans-serif,lucida grande, tahoma, arial, sans-serif';
+	font-size : 12px;
+}

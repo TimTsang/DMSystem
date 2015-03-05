@@ -1,0 +1,102 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型的对象JSON数据
+ */
+{
+	"results" : 13,
+	"title":"酒店对象test",
+	"rows"    : 
+			[{
+				"id"             : 1,
+				"andor"          : "and",
+			    "objName"        : "ZA_LYT_LKBH",
+			    "select"		 : "instr",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 2,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_TH",
+			    "select"		 : "endWith",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 3,
+				"andor"   		 : "and",
+			    "objName"        : "ZA_LYT_XM",
+			    "select"		 : "isNotNull",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 4,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_XMPY",
+			    "select"		 : "isNull",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 5,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_XB",
+			    "select"		 : "starWith",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 6,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_MZ",
+			    "select"		 : "between",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 7,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_CSRQ",
+			    "select"		 : "=",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 8,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_ZJLX",
+			    "select"		 : "GreaterThan",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 9,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_ZJHM",
+			    "select"		 : "LessThan",
+			    "conditions"     : "测试", 
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 10,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_XZQH",
+			    "select"		 : "NotEqual",
+			    "conditions"     : "测试", 
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 11,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_CZDZ",
+			    "select"		 : "GreaterThanOrEqualTo",
+			    "conditions"     : "测试", 
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 12,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_LGMC",
+			    "select"		 : "LessThanOrEqualTo",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			},{
+				"id"      		 : 13,
+				"andor"   		 : "and",
+			    "objName" 		 : "ZA_LYT_LGBH",
+			    "select"		 : "NotEqual",
+			    "conditions"     : "测试", 
+			    "deltat"         : "测试",
+			}]
+}

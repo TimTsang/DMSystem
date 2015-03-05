@@ -1,0 +1,10 @@
+/**
+ * @author TimTsang
+ * @date 2014年7月18日
+ * @description JSON数据
+ */
+[{
+    "id" : 3,
+    "text": "进入多模型查询", 
+    "leaf": true,
+}]

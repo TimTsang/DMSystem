@@ -1,0 +1,18 @@
+/**
+ * @author TimTsang
+ * @date 2014年7月18日
+ * @description JSON数据
+ */
+{
+	"results" : 2,
+	"rows"    : 
+			[{
+				"id"      : 1, 
+			    "Eandor" : "and",                                  
+				"Candor" : "且",
+			},{
+				"id"      : 2,
+			    "Eandor" : "or",                                  
+				"Candor" : "或",
+			}]
+}

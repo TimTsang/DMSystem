@@ -1,0 +1,16 @@
+/**
+ * @author TimTsang
+ * @date 2014年8月13日
+ * @description 常用信息JSON数据
+ */
+[{
+    "id" : 1,
+    "text": "查看地区代码", 
+    "leaf": true,
+    "checked": false
+},{
+    "id" : 2,
+    "text": "查看民航机场代码", 
+    "leaf": true,
+    "checked": false
+}]

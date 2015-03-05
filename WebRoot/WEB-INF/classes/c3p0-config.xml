@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c3p0-config>
+
+	<default-config>
+		<property name="user">DMSystem</property>
+		<property name="password">root</property>
+		<property name="driverClass">oracle.jdbc.driver.OracleDriver
+
+		</property>
+		<property name="jdbcUrl">jdbc:oracle:thin:@10.21.23.141:1521:orcl</property><!-- 用服务器的数据库 -->
+		<!-- 连接池中保留的最小连接数 -->
+		<property name="minPoolSize">10</property>
+		<!-- 连接池中保留的最大连接数 -->
+		<property name="maxPoolSize">20</property>
+		<!-- 连接的最大连接时间-->
+		<property name="maxIdleTime">1800</property>
+		<!-- 连接池的连接都正在使用时，增加的连接数 -->
+		<property name="acquireIncrement">5</property>
+		<!-- 初始化连接池的拥有的连接数 -->
+		<property name="initialPoolSize">5</property>
+		<!-- 空闲连接测试时间，空闲连接就自动回收 -->
+		<property name="idleConnectionTestPeriod">300</property>
+		<!-- 每次回收数 -->
+		<property name="acquireRetryAttempts">15</property>
+		<!-- 回收后连接是否销毁 -->
+		<property name="breakAfterAcquireFailure">true</property>
+	</default-config>
+
+	<named-config name="YourConfig">
+		<property name="user">bigdate</property>
+		<property name="password">root</property>
+		<property name="driverClass">oracle.jdbc.driver.OracleDriver
+		</property>
+		<property name="jdbcUrl">jdbc:oracle:thin:@127.0.0.1:1521:orcl</property>
+	</named-config>
+
+</c3p0-config>
+

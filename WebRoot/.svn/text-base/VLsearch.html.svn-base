@@ -1,0 +1,75 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>数据挖掘系统</title>
+
+    <link rel="stylesheet" type="text/css" href="resources/css/ext-all.css" />
+    <link rel="stylesheet" type="text/css" href="ux/css/RowEditor.css" />
+    <link rel="stylesheet" type="text/css" href="ux/css/PanelResizer.css" />
+	<link rel="stylesheet" type="text/css" href="ux/css/Spinner.css" />
+    
+    <link rel="stylesheet" type="text/css" href="css/icon.css" />
+	
+    <link rel="stylesheet" type="text/css" media="all" href="css/VLsearch_gridpanel.css" />
+	
+	<style type="text/css">
+			#loading{
+		        position:absolute;
+		        left:40%;
+		        top:40%;
+		        padding:2px;
+		        z-index:20001;
+		        height:auto;
+		    }
+		    #loading a {
+		        color:#225588;
+		    }
+		    #loading .loading-indicator{
+		        background:white;
+		        color:#444;
+		        font:bold 13px tahoma,arial,helvetica;
+		        padding:10px;
+		        margin:0;
+		        height:auto;
+		    }
+		    #loading-msg {
+		        font: normal 10px arial,tahoma,sans-serif;
+		    }
+	</style>
+    
+    
+    <!-- GC -->
+    <!-- LIBS -->
+    <script type="text/javascript" src="adapter/ext/ext-base.js"></script>
+    <!-- ENDLIBS -->
+
+    <script type="text/javascript" src="adapter/ext/ext-all.js"></script>
+	<script type="text/javascript" src="js/map.js"></script>
+	
+    <script type="text/javascript" src="ux/RowEditor.js"></script>
+    <script type="text/javascript" src="js/store.js"></script>
+    <script type="text/javascript" src="ux/ProgressBarPager.js"></script>
+    <script type="text/javascript" src="ux/PanelResizer.js"></script>
+    <script type="text/javascript" src="ux/PagingMemoryProxy.js"></script>
+	<script type="text/javascript" src="ux/Spinner.js"></script>
+	<script type="text/javascript" src="ux/SpinnerField.js"></script>
+	<script type="text/javascript" src="js/datetimefield.js"></script>
+    
+    <script type="text/javascript" src="js/jquery-1.3.1.js"></script>
+    <script type="text/javascript" src="js/jquery.json-2.3.js"></script>
+	
+	<script type="text/javascript" src="js/commom.js"></script>
+	<script type="text/javascript" src="js/util.js"></script>
+	<!--<script type="text/javascript" src="js/hotel_gridpanel.js"></script>
+	<script type="text/javascript" src="js/passenger_gridpanel.js"></script>
+    <script type="text/javascript" src="js/VLsearch_gridpanel.js"></script>-->
+	<script type="text/javascript" src="js/object_gridpanel.js"></script>
+	
+
+</head>
+
+<body onload="creatObjectGridPanel()" >
+	<div id = "top_panel" style="float:right;padding:0 5px 5px 0;"></div>
+
+</body>
+</html>

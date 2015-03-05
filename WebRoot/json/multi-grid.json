@@ -1,0 +1,17 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型的对象JSON数据
+ */
+{
+	"results" : 13,
+	"rows"    : 
+			[{
+				"id"             : 1,
+				"andor"          : "and",
+			    "objName"        : "ZA_LYT_LKBH",
+			    "select"		 : "instr",
+			    "conditions"     : "测试",
+			    "deltat"         : "测试",
+			}]
+}

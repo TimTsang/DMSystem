@@ -1,0 +1,70 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型的对象JSON数据
+ */
+{
+	"results" : 13,
+	"rows"    : 
+			[{
+				"id"         : 1,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 2,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 3,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 4,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 5,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 6,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 7,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 8,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 9,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 10,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 11,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			},{
+				"id"         : 12,
+				"modelName"  : "且",
+			    "ObjectName" : "入住酒店", 
+			    "state"      : "",
+			}]
+}

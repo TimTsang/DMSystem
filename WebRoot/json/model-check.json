@@ -1,0 +1,16 @@
+/**
+ * @author 曾家栩
+ * @date 2014年7月18日
+ * @description 模拟后台传入的模型JSON数据
+ */
+[{
+    "id" : 1,
+    "text": "旅客入住酒店模型", 
+    "leaf": true,
+    "checked": false
+},{
+    "id" : 2,
+    "text": "车辆通过卡口模型",
+    "leaf": true,
+    "checked": false
+}]

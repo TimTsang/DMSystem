@@ -1,0 +1,10 @@
+/**
+ * @author TimTsang
+ * @date 2014年8月13日
+ * @description JSON数据
+ */
+[{
+    "id" : 4,
+    "text": "用户管理", 
+    "leaf": true,
+}]
